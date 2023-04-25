@@ -32,61 +32,63 @@
     }
   ],
   "dates": [
-    "14-6-2023",
-    "11-7-2023",
-    "14-4-2023",
-    "20-6-2023",
-    "23-5-2023",
-    "27-6-2023"
+    "6-14-2023",
+    "4-14-2023",
+    "4-11-2023",
+    "6-20-2023",
+    "7-11-2023",
+    "7-20-2023",
+    "5-23-2023",
+    "7-26-2023"
   ],
   "partys": [
     {
       "name-movie": "John Wick 2023",
-      "date": "14-6-2023"
+      "date": "6-14-2023"
     },
     {
       "name-movie": "John Wick 2023",
-      "date": "11-7-2023"
+      "date": "7-11-2023"
     },
     {
       "name-movie": "Dungeons & Dragons 2023",
-      "date": "14-4-2023"
+      "date": "4-14-2023"
     },
     {
       "name-movie": "Dungeons & Dragons 2023",
-      "date": "11-4-2023"
+      "date": "4-11-2023"
     },
     {
       "name-movie": "Evil Dead Rise 2023",
-      "date": "20-6-2023"
+      "date": "6-20-2023"
     },
     {
       "name-movie": "The Covenant 2023",
-      "date": "11-7-2023"
+      "date": "7-11-2023"
     },
     {
       "name-movie": "The Covenant 2023",
-      "date": "20-7-2023"
+      "date": "7-20-2023"
     },
     {
       "name-movie": "Evil Dead Rise 2023",
-      "date": "23-5-2023"
+      "date": "5-23-2023"
     },
     {
       "name-movie": "The Pope's Exorcist 2023",
-      "date": "26-7-2023"
+      "date": "7-26-2023"
     },
     {
       "name-movie": "The Pope's Exorcist 2023",
-      "date": "26-7-2023"
+      "date": "7-26-2023"
     },
     {
       "name-movie": "The Super Mario Bros",
-      "date": "13-6-2023"
+      "date": "6-13-2023"
     },
     {
       "name-movie": "The Super Mario Bros",
-      "date": "27-6-2023"
+      "date": "6-27-2023"
     }
   ]
 }
