@@ -31,7 +31,7 @@
       "image": "https://cdn.cinematerial.com/p/297x/udlle00i/the-super-mario-bros-movie-movie-poster-md.jpg?v=1675498892"
     }
   ],
-  "dates": [
+  "partys": [
     {
       "name-movie": "John Wick 2023",
       "date": "14-6-2023"
@@ -82,3 +82,4 @@
     }
   ]
 }
+// /partys/?name-movie=${infoMovie.nameMovie}&date=${infoMovie.dateParty}
