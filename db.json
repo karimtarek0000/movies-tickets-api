@@ -24,5 +24,55 @@
       "name": "The Super Mario Bros",
       "image": "https://cdn.cinematerial.com/p/297x/udlle00i/the-super-mario-bros-movie-movie-poster-md.jpg?v=1675498892"
     }
+  ],
+  "dates": [
+    {
+      "name-movie": "John Wick 2023",
+      "date": "14/6/2023"
+    },
+    {
+      "name-movie": "John Wick 2023",
+      "date": "11/7/2023"
+    },
+    {
+      "name-movie": "Dungeons & Dragons 2023",
+      "date": "14/4/2023"
+    },
+    {
+      "name-movie": "Dungeons & Dragons 2023",
+      "date": "11/4/2023"
+    },
+    {
+      "name-movie": "Evil Dead Rise 2023",
+      "date": "20/6/2023"
+    },
+    {
+      "name-movie": "The Covenant 2023",
+      "date": "11/7/2023"
+    },
+    {
+      "name-movie": "The Covenant 2023",
+      "date": "20/7/2023"
+    },
+    {
+      "name-movie": "Evil Dead Rise 2023",
+      "date": "23/5/2023"
+    },
+    {
+      "name-movie": "The Pope's Exorcist 2023",
+      "date": "26/7/2023"
+    },
+    {
+      "name-movie": "The Pope's Exorcist 2023",
+      "date": "26/7/2023"
+    },
+    {
+      "name-movie": "The Super Mario Bros",
+      "date": "13/6/2023"
+    },
+    {
+      "name-movie": "The Super Mario Bros",
+      "date": "27/6/2023"
+    }
   ]
 }
