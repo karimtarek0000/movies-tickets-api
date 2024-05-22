@@ -18,4 +18,5 @@ server.use(
     })
 );
 server.options('*', cors());
-server.listen(port);
+server.listen(3001, () => {
+  console.log("JSON Server is running on port 3001");
