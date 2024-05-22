@@ -6,13 +6,13 @@ const port = process.env.PORT || 8000;
 import cors from 'cors';
 
 // Cors
+server.use(middlewares);
 const corsOptions = {
-  origin: "*",
+  origin: "https://movies-tickets.onrender.com",
   credentials: true,
   optionsSuccessStatus: 200,
 };
 server.use(cors(corsOptions));
-server.use(middlewares);
 server.use(router);
 
 server.listen(port);
