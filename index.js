@@ -14,7 +14,7 @@ server.use(
         origin: true,
         credentials: true,
         preflightContinue: false,
-        methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
+        methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
     })
 );
 server.options('*', cors());
