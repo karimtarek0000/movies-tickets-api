@@ -3,8 +3,8 @@ const server = jsonServer.create();
 const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 8000;
-import cors from "cors"
+const middlewares = jsonServer.defaults({ noCors: true })
 
-server.use(cors())
+server.use(middlewares)
 server.use(router);
 server.listen(port);
