@@ -7,7 +7,7 @@ import cors from 'cors';
 
 // Cors
 const corsOptions = {
-  origin: "https://movies-tickets.onrender.com",
+  origin: "*",
   credentials: true,
   optionsSuccessStatus: 200,
 };
