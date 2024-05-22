@@ -1,15 +1,15 @@
 {
-  "name": "crud-app-react",
+  "name": "movies-tickets-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "./index.js"
+    "start": "node index.js"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "json-server": "^0.17.3"
-  }
+    "json-server": "^0.17.4"
+  },
+  "author": "",
+  "license": "ISC"
 }
