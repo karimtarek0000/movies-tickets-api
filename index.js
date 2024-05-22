@@ -7,6 +7,7 @@ const cors = require('cors');
 const middlewares = jsonServer.defaults();
 
 
+server.use(middlewares);
 server.use(
     cors({
         origin: true,
@@ -16,7 +17,5 @@ server.use(
     })
 );
 server.options('*', cors());
-
-server.use(middlewares);
 server.use(router);
 server.listen(port);
